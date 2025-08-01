@@ -31,3 +31,14 @@ normal text
 
 ## Block Quote
 > This marksown block quate
+
+## List
+- List 1
+- List 2
+- List 3
+ - sub 1
+ - sub 2
+
+1. List 1
+2. List 2
+3. List 3
